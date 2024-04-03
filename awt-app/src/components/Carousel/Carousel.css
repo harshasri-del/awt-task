@@ -1,0 +1,13 @@
+.custom-carousel {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.carousel-image {
+  max-height: 260px;
+  max-width: 100%;
+  object-fit: cover;
+  clip-path: inset(0 35px 0 35px);
+
+}
